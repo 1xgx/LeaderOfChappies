@@ -1,0 +1,83 @@
+# ========== Unity Core ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# ========== User-specific ==========
+UserSettings/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ========== Cache & Generated ==========
+*.db
+*.opendb
+*.VC.db
+*.pidb.meta
+*.bak
+*.backup
+*.orig
+*.tmp
+
+# ========== Android & iOS ==========
+.gradle/
+.gradle-cache/
+ExportedProject/
+*.apk
+*.aab
+*.obb
+*.keystore
+*.key
+*.jks
+*.gradle
+local.properties
+Pods/
+DerivedData/
+
+# ========== Auto-generated (Unity Packages, Addressables) ==========
+/Assets/AddressableAssetsData/*
+!/Assets/AddressableAssetsData/*.json
+/Assets/StreamingAssets/aa/*
+/Assets/StreamingAssets/aa.meta
+
+# ========== Crash & Debug ==========
+sysinfo.txt
+*.stacktrace
+*.crash
+*.log
+
+# ========== OS & IDE Trash ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# ========== Plastic SCM / Collab / Rider / Visual Studio ==========
+.PlasticSCM/
+.collabignore
+.idea/
+.vs/
+*.DotSettings.user
+
+# ========== JetBrains Rider ==========
+.idea/
+*.DotSettings.user
+
+# ========== Unity Cloud & Package Cache ==========
+/Library/PackageCache/
+Packages/com.unity.package-manager-ui/
+Packages/packages-lock.json
+
+# ========== Addressables Cache ==========
+/ServerData/
